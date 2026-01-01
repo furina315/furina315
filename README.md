@@ -43,9 +43,9 @@ I’m a student who is passionate about technology and constantly learning and e
 ## 📊 GitHub Stats
 
 
-<img src="https://ghstats.998315.xyz/api?username=furina315&show_icons=true&theme=tokyonight" />
-<img src="https://ghstats.998315.xyz/api/top-langs/?username=furina315&layout=compact&theme=tokyonight" />
-
+<img src="https://ghstats.998315.xyz/api?username=furina315&show_icons=true&theme=tokyonight&text_bold" />
+<img src="https://ghstats.998315.xyz/api/top-langs/?username=furina315&layout=compact&theme=tokyonight&text_bold" />
+<img src="https://github.com/furina315/furina315/blob/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 很高兴你能看到这里，希望我的项目能对你有所帮助 😊<br>
