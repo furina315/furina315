@@ -9,7 +9,7 @@
 ---
 
 ## 🧑‍💻 关于我 | About Me
-
+**Motto**
 > **知不足而奋进，望远山而前行**  
 > *Aware of my limits, I strive forward; looking toward distant mountains, I keep moving.*
 
@@ -24,13 +24,11 @@ I’m a student who is passionate about technology and constantly learning and e
 ## 🌱 简介 | Introduction
 
 - 💡 热衷于 **编程与技术探索**
-- 📚 仍在打基础、重实践
-- 🚀 希望通过持续积累不断进步
-
 - 💡 Passionate about **programming and technology**
+- 📚 仍在打基础、重实践
 - 📚 Focusing on fundamentals and practice
+- 🚀 希望通过持续积累不断进步
 - 🚀 Aiming to improve step by step through persistence
-
 ---
 
 ## 🛠️ 技术栈 | Tech Stack
@@ -53,5 +51,19 @@ I’m a student who is passionate about technology and constantly learning and e
 </p>
 
 ---
-很高兴你能看到这里，希望我的项目能对你有所帮助 😊
+很高兴你能看到这里，希望我的项目能对你有所帮助 😊<br>
 Nice to see you here. Hope my projects can be helpful to you 😊
+
+---
+
+## 🎵 兴趣 | Interests
+- 🎶 音乐 | Music
+- 🌸 简洁、有温度的设计 | Clean & warm design
+- ☁️ 偶尔发呆，仰望远方 | Sometimes daydreaming and looking far ahead
+
+---
+## 📫 联系 | Contact
+- 💬 欢迎通过 GitHub Issues / Discussions 与我交流
+- 💬 Feel free to communicate with me via GitHub
+- 📫 邮件也是个不错的方式~
+- 📫 Email is also a good option~
