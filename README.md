@@ -35,20 +35,17 @@ I’m a student who is passionate about technology and constantly learning and e
 
 ### 💻 正在学习 | Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,python,git,github,cloudflare,workers,obsidian,vscode,webstorm" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furina315&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furina315&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://ghstats.998315.xyz/api?username=furina315&show_icons=true&theme=tokyonight" />
+<img src="https://ghstats.998315.xyz/api/top-langs/?username=furina315&layout=compact&theme=tokyonight" />
+
 
 ---
 很高兴你能看到这里，希望我的项目能对你有所帮助 😊<br>
@@ -65,5 +62,5 @@ Nice to see you here. Hope my projects can be helpful to you 😊
 ## 📫 联系 | Contact
 - 💬 欢迎通过 GitHub Issues / Discussions 与我交流
 - 💬 Feel free to communicate with me via GitHub
-- 📫 邮件也是个不错的方式~
-- 📫 Email is also a good option~
+- 📫 [邮件](mailto:wybtgrw@outlook.com)也是个不错的方式~
+- 📫 [Email](mailto:wybtgrw@outlook.com) is also a good option~
