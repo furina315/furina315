@@ -33,4 +33,4 @@ jobs:
           target_branch: output #生成的svg文件的分支
           build_dir: dist #生成的svg文件的路径
         env:
-          GITHUB_TOKEN: ${GH_TOKEN}} #自己创建的 Personal Access Token (PAT)并添加到GitHub Secrets
+          GITHUB_TOKEN: ${{secrets.GH_TOKEN}} #自己创建的 Personal Access Token (PAT)并添加到GitHub Secrets
