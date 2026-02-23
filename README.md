@@ -43,9 +43,9 @@ I’m a student who is passionate about technology and constantly learning and e
 ## 📊 GitHub Stats
 
 
-<img src="https://ghstats.998315.xyz/api?username=furina315&show_icons=true&theme=tokyonight&text_bold" />
-<img src="https://ghstats.998315.xyz/api/top-langs/?username=furina315&layout=compact&theme=tokyonight&text_bold" />
-<img src="https://github.com/furina315/furina315/blob/output/github-contribution-grid-snake-dark.svg" />
+![1](https://ghstats.998315.xyz/api?username=furina315&show_icons=true&theme=tokyonight&text_bold)
+![2](https://ghstats.998315.xyz/api/top-langs/?username=furina315&layout=compact&theme=tokyonight&text_bold)
+![3](https://github.com/furina315/furina315/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 很高兴你能看到这里，希望我的项目能对你有所帮助 😊<br>
@@ -63,4 +63,4 @@ Nice to see you here. Hope my projects can be helpful to you 😊
 - 💬 欢迎通过 GitHub Issues / Discussions 与我交流
 - 💬 Feel free to communicate with me via GitHub
 - 📫 [邮件](mailto:wybtgrw@outlook.com)也是个不错的方式~
-- 📫 [Email](mailto:wybtgrw@outlook.com) is also a good option~
+- 📫 [Email](mailto:wybtgrw@outlook.coom)also a good option~
