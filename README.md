@@ -35,7 +35,7 @@ I’m a student who is passionate about technology and constantly learning and e
 
 ### 💻 正在学习 | Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,git,github,cloudflare,workers,obsidian,vscode,webstorm" />
+  <img src="https://skillicons.dev/icons?i=html,js,python,git,github,cloudflare,workers,obsidian,vscode" />
 </p>
 
 ---
