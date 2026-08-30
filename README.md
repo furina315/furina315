@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Furina315
+# 👋 Hi, I'm Hoshino Shio
 
 <p align="center">
   <a href="https://blog.shiosora.top"><img src="https://img.shields.io/badge/Blog-blog.shiosora.top-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>
@@ -10,13 +10,13 @@
 
 ## 🧑‍💻 关于我 | About Me
 **Motto**
-> **知不足而奋进，望远山而前行**  
-> *Aware of my limits, I strive forward; looking toward distant mountains, I keep moving.*
+> **人因梦想而伟大，又因坚持梦想而成长**  
+> *Dreams make us great, and perseverance makes us grow..*
 
-你好！欢迎来到我的 GitHub 👋  
+你好！欢迎来到我的 GitHub 主页<br>
 我是一名对技术充满兴趣、正在不断学习和探索中的学生。
 
-Hello! Welcome to my GitHub 👋  
+Hello! Welcome to my GitHub homepage<br>
 I’m a student who is passionate about technology and constantly learning and exploring new things.
 
 ---
@@ -25,7 +25,7 @@ I’m a student who is passionate about technology and constantly learning and e
 
 - 💡 热衷于 **编程与技术探索**
 - 💡 Passionate about **programming and technology**
-- 📚 仍在打基础、重实践
+- 📚 仍在处于基础阶段，重实践
 - 📚 Focusing on fundamentals and practice
 - 🚀 希望通过持续积累不断进步
 - 🚀 Aiming to improve step by step through persistence
@@ -36,12 +36,12 @@ I’m a student who is passionate about technology and constantly learning and e
 
 ### 💻 常用 | Daily Drivers
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,kotlin,astro,nextjs,nodejs,git,github,vscode" alt="Daily drivers" />
+  <img src="https://skillicons.dev/icons?i=html,kotlin,python,git,github,cloudflare,vscode,pycharm,webstorm,photoshop" alt="Daily drivers" />
 </p>
 
 ### 🌱 在学 & 在折腾 | Learning & Tinkering
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,workers,vercel,supabase,androidstudio,linux,obsidian" alt="Learning and tinkering" />
+  <img src="https://skillicons.dev/icons?i=docker,workers,vercel,js,ts,css,androidstudio,linux" alt="Learning and tinkering" />
 </p>
 
 ---
@@ -71,11 +71,10 @@ Nice to see you here. Hope my projects can be helpful to you 😊
 ## 🎵 兴趣 | Interests
 - 🎶 音乐 | Music
 - 🌸 简洁、有温度的设计 | Clean & warm design
-- ☁️ 偶尔发呆，仰望远方 | Sometimes daydreaming and looking far ahead
+- 🌍 环游世界 | Traveling the world
 
 ---
 ## 📫 联系 | Contact
-- 🌐 博客 | Blog：[blog.shiosora.top](https://blog.shiosora.top)
 - 💬 欢迎通过 GitHub Issues / Discussions 与我交流
 - 💬 Feel free to communicate with me via GitHub
 - 📫 [邮件](mailto:wybtgrw@outlook.com)也是个不错的方式~
