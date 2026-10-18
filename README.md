@@ -52,6 +52,8 @@ I’m a student who is passionate about technology and constantly learning and e
   A Live2D AI desktop pet for Android, built with Kotlin + Jetpack Compose; I contribute to it
 - 🖼️ **[Google Avatar Frame Generator](https://github.com/Hoshinoshio-dev/Google-Avatar-Frame-Generator)** — 给头像加上 Google One 风格边框，在线可用：[gavtr.shiosora.top](https://gavtr.shiosora.top)  
   Adds a Google One style border to your avatar — live at [gavtr.shiosora.top](https://gavtr.shiosora.top)
+- 🐱 **[NekoTranslate](https://github.com/furina315/NekoTranslate)** — 完全离线的 Android 翻译 App，导入 GGUF 模型即可在本地运行 <br>
+  A fully offline Android translator running GGUF models on-device
 
 ---
 
